@@ -1,0 +1,10 @@
+{
+    "livePreview.defaultPreviewPath": "/index.html",
+    "livePreview.autoShowPreview": true,
+    "livePreview.showServerStatusNotifications": true,
+    "livePreview.portNumber": 3000,
+    "livePreview.showStatusBarItem": true,
+    "livePreview.openPreviewTarget": "Beside",
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 1000
+}
